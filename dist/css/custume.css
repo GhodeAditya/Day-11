@@ -1,0 +1,36 @@
+#header {
+    background-color: #fff;
+    text-align: center;
+    color: #459add;
+    height: 75px;
+}
+
+#navList {
+    color: #fff;
+}
+
+a {
+    color: #fff;
+}
+
+#navbar {
+    margin-bottom: 10%;
+}
+
+#PageBody {
+    margin-bottom: 20%;
+    text-align: center;
+}
+
+#footer {
+    text-align: center;
+    margin-bottom: 20%;
+}
+
+.col-xs-3 {
+    background-color: #dbe2ea;
+}
+
+li {
+    display: inline;
+}
